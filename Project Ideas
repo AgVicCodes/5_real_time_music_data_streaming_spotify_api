@@ -63,3 +63,12 @@
         Use data visualization tools like Tableau or Power BI to create dashboards.
         Analyze trends and patterns in music popularity.
         Provide insights and reports on the findings.
+
+5.  Mood-Based Playlist Generation:
+    Use tensorflow or pytorch to analyse users mood and machine learning to generate playlists based on the user’s mood.
+
+6.  User Segmentation:
+        Segment users based on their listening habits.
+
+7.  Song Attribute Prediction:
+        Predict attributes like tempo, key, and mode of songs.
