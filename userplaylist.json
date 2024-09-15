@@ -1,0 +1,716 @@
+{
+    "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e/playlists?offset=0&limit=100",
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5BBlHwDkBFEZ0bvIKg81Pa"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5BBlHwDkBFEZ0bvIKg81Pa",
+            "id": "5BBlHwDkBFEZ0bvIKg81Pa",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0249b9cb3739e9e82b5ac77f18ab67616d00001e0259a24381654c27b79d5d9ff8ab67616d00001e02be24ed0e0911c0ee7604a0cfab67616d00001e02beafbc042d2370fe7e737847",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0249b9cb3739e9e82b5ac77f18ab67616d00001e0259a24381654c27b79d5d9ff8ab67616d00001e02be24ed0e0911c0ee7604a0cfab67616d00001e02beafbc042d2370fe7e737847",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0249b9cb3739e9e82b5ac77f18ab67616d00001e0259a24381654c27b79d5d9ff8ab67616d00001e02be24ed0e0911c0ee7604a0cfab67616d00001e02beafbc042d2370fe7e737847",
+                    "width": 60
+                }
+            ],
+            "name": "Contemporary Gospel",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABtoa4aF1jv1OdyFIniSWoVSH1Xno",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5BBlHwDkBFEZ0bvIKg81Pa/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5BBlHwDkBFEZ0bvIKg81Pa"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/05RUWYxmM6Xzc6d2XgzCAu"
+            },
+            "href": "https://api.spotify.com/v1/playlists/05RUWYxmM6Xzc6d2XgzCAu",
+            "id": "05RUWYxmM6Xzc6d2XgzCAu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021b13147b2fea22d972ef2e38ab67616d00001e02791f82f77c37b8bc76e08417ab67616d00001e0279cefb8708792401a9fac8b3ab67616d00001e02a108e07c661f9fc54de9c43a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021b13147b2fea22d972ef2e38ab67616d00001e02791f82f77c37b8bc76e08417ab67616d00001e0279cefb8708792401a9fac8b3ab67616d00001e02a108e07c661f9fc54de9c43a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021b13147b2fea22d972ef2e38ab67616d00001e02791f82f77c37b8bc76e08417ab67616d00001e0279cefb8708792401a9fac8b3ab67616d00001e02a108e07c661f9fc54de9c43a",
+                    "width": 60
+                }
+            ],
+            "name": "Upbeat",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAFVr6DaRWk0q/p70an5asm/Q19uuq",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/05RUWYxmM6Xzc6d2XgzCAu/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:05RUWYxmM6Xzc6d2XgzCAu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5NZLVkLjJhrp2XyOAdqIXq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5NZLVkLjJhrp2XyOAdqIXq",
+            "id": "5NZLVkLjJhrp2XyOAdqIXq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e022c1de1dd10892c5caf158345ab67616d00001e022c5dab918b2349ab0baeb015ab67616d00001e02ad29a40953b33e52530e399eab67616d00001e02e598ddc6735ed933b07edb83",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e022c1de1dd10892c5caf158345ab67616d00001e022c5dab918b2349ab0baeb015ab67616d00001e02ad29a40953b33e52530e399eab67616d00001e02e598ddc6735ed933b07edb83",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e022c1de1dd10892c5caf158345ab67616d00001e022c5dab918b2349ab0baeb015ab67616d00001e02ad29a40953b33e52530e399eab67616d00001e02e598ddc6735ed933b07edb83",
+                    "width": 60
+                }
+            ],
+            "name": "Vic's Maveric Pick",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAFSk8G+rORPdt+Pb8hZbCBKqGbV7F",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5NZLVkLjJhrp2XyOAdqIXq/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5NZLVkLjJhrp2XyOAdqIXq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0Bk7FeOLDzWy8GaHQjevkw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0Bk7FeOLDzWy8GaHQjevkw",
+            "id": "0Bk7FeOLDzWy8GaHQjevkw",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ec96e006b8bdfc582610ec13",
+                    "width": null
+                }
+            ],
+            "name": "Relax",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABc/rr8GN1G2Jpfz0cmoyUc/YcYI7",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0Bk7FeOLDzWy8GaHQjevkw/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0Bk7FeOLDzWy8GaHQjevkw"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/65GFn5usvRD5pJe8ireNJL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/65GFn5usvRD5pJe8ireNJL",
+            "id": "65GFn5usvRD5pJe8ireNJL",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845eb828cf6c34d2dfdf5c99d5",
+                    "width": null
+                }
+            ],
+            "name": "Asphalt 8",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAGnQhCoLbtMxBFQP9Dbv7PrhAgEHe",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/65GFn5usvRD5pJe8ireNJL/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:65GFn5usvRD5pJe8ireNJL"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0RNNkIfQOzio3vi4fJ1HRR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0RNNkIfQOzio3vi4fJ1HRR",
+            "id": "0RNNkIfQOzio3vi4fJ1HRR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021917a0f3f4152622a040913fab67616d00001e02620b5725d334b1af9aad7d39ab67616d00001e0295ca6a9b4083a86c149934aeab67616d00001e02fe271fd66f6393ba6b5a099e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021917a0f3f4152622a040913fab67616d00001e02620b5725d334b1af9aad7d39ab67616d00001e0295ca6a9b4083a86c149934aeab67616d00001e02fe271fd66f6393ba6b5a099e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021917a0f3f4152622a040913fab67616d00001e02620b5725d334b1af9aad7d39ab67616d00001e0295ca6a9b4083a86c149934aeab67616d00001e02fe271fd66f6393ba6b5a099e",
+                    "width": 60
+                }
+            ],
+            "name": "Pop remix",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAEeG107wB+CVPfXpy7kswOYzN2XnO",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0RNNkIfQOzio3vi4fJ1HRR/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0RNNkIfQOzio3vi4fJ1HRR"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6CsOHl0YTncFaLJdWe2FyO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6CsOHl0YTncFaLJdWe2FyO",
+            "id": "6CsOHl0YTncFaLJdWe2FyO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0208c8b15bfdb93f31f14d5ac1ab67616d00001e022a5b2af870da877e6b92b07fab67616d00001e02413716aaf69a2dda056151b3ab67616d00001e028cd836fc659d9b110345eee6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0208c8b15bfdb93f31f14d5ac1ab67616d00001e022a5b2af870da877e6b92b07fab67616d00001e02413716aaf69a2dda056151b3ab67616d00001e028cd836fc659d9b110345eee6",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0208c8b15bfdb93f31f14d5ac1ab67616d00001e022a5b2af870da877e6b92b07fab67616d00001e02413716aaf69a2dda056151b3ab67616d00001e028cd836fc659d9b110345eee6",
+                    "width": 60
+                }
+            ],
+            "name": "DLS",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA+a84JahKuEga8Fxns7VAID1h7Xy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6CsOHl0YTncFaLJdWe2FyO/tracks",
+                "total": 24
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6CsOHl0YTncFaLJdWe2FyO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4WfziWPXGYE29dRWGm461I"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4WfziWPXGYE29dRWGm461I",
+            "id": "4WfziWPXGYE29dRWGm461I",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0240bd80eb678b3aa53b6df041ab67616d00001e025f406b8e90bf6e045a81de15ab67616d00001e028a85cd773eac1d8fe19686aaab67616d00001e02993db6699f5cb8b2294e2339",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0240bd80eb678b3aa53b6df041ab67616d00001e025f406b8e90bf6e045a81de15ab67616d00001e028a85cd773eac1d8fe19686aaab67616d00001e02993db6699f5cb8b2294e2339",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0240bd80eb678b3aa53b6df041ab67616d00001e025f406b8e90bf6e045a81de15ab67616d00001e028a85cd773eac1d8fe19686aaab67616d00001e02993db6699f5cb8b2294e2339",
+                    "width": 60
+                }
+            ],
+            "name": "Gospel Vibes",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAHN4umZAAepHQfwmeQhiqUfseuX4z",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4WfziWPXGYE29dRWGm461I/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4WfziWPXGYE29dRWGm461I"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6wEWnF4XZqEOkigZYNm1C6"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6wEWnF4XZqEOkigZYNm1C6",
+            "id": "6wEWnF4XZqEOkigZYNm1C6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e022ed45ea1c204bb155e363e39ab67616d00001e0232326306b5375544538de43fab67616d00001e02548653090f0ac0f9879fc562ab67616d00001e0265a8757e7ac5a40bda7a126d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e022ed45ea1c204bb155e363e39ab67616d00001e0232326306b5375544538de43fab67616d00001e02548653090f0ac0f9879fc562ab67616d00001e0265a8757e7ac5a40bda7a126d",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e022ed45ea1c204bb155e363e39ab67616d00001e0232326306b5375544538de43fab67616d00001e02548653090f0ac0f9879fc562ab67616d00001e0265a8757e7ac5a40bda7a126d",
+                    "width": 60
+                }
+            ],
+            "name": "Depressed",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADNQ4aGZyODfqnx5Rs0wTRNh/cUP+",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6wEWnF4XZqEOkigZYNm1C6/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6wEWnF4XZqEOkigZYNm1C6"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0pz04oY3Zc1j4tbeWiLHsw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0pz04oY3Zc1j4tbeWiLHsw",
+            "id": "0pz04oY3Zc1j4tbeWiLHsw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0240c6a2612b96b1c7e30cd043ab67616d00001e02afa9966f3f5fd478e056f486ab67616d00001e02b36cf6fa3adeb8a6f3a9d916ab67616d00001e02e7493d9dbd22d2d0c3932a25",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0240c6a2612b96b1c7e30cd043ab67616d00001e02afa9966f3f5fd478e056f486ab67616d00001e02b36cf6fa3adeb8a6f3a9d916ab67616d00001e02e7493d9dbd22d2d0c3932a25",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0240c6a2612b96b1c7e30cd043ab67616d00001e02afa9966f3f5fd478e056f486ab67616d00001e02b36cf6fa3adeb8a6f3a9d916ab67616d00001e02e7493d9dbd22d2d0c3932a25",
+                    "width": 60
+                }
+            ],
+            "name": "New Song",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAARoisYvtMeW+PcBbZsKcIBhY+tt5w",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0pz04oY3Zc1j4tbeWiLHsw/tracks",
+                "total": 59
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0pz04oY3Zc1j4tbeWiLHsw"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2f1eTD1Xuwno8LWDQPbyg5"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2f1eTD1Xuwno8LWDQPbyg5",
+            "id": "2f1eTD1Xuwno8LWDQPbyg5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0235d1aee32002543d3bc3279bab67616d00001e0264a82a4549c2fbd92b4974b1ab67616d00001e0282e4f17d216a5ee8d114e401ab67616d00001e02ca9114ae41dc7cf25217aeaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0235d1aee32002543d3bc3279bab67616d00001e0264a82a4549c2fbd92b4974b1ab67616d00001e0282e4f17d216a5ee8d114e401ab67616d00001e02ca9114ae41dc7cf25217aeaf",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0235d1aee32002543d3bc3279bab67616d00001e0264a82a4549c2fbd92b4974b1ab67616d00001e0282e4f17d216a5ee8d114e401ab67616d00001e02ca9114ae41dc7cf25217aeaf",
+                    "width": 60
+                }
+            ],
+            "name": "Worship medley",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAJsOrjZl0JoungtnX4zlzbza6xJp6",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2f1eTD1Xuwno8LWDQPbyg5/tracks",
+                "total": 41
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2f1eTD1Xuwno8LWDQPbyg5"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6rELsefmaDvawVfgNXPhm7"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6rELsefmaDvawVfgNXPhm7",
+            "id": "6rELsefmaDvawVfgNXPhm7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020cdc0d7192efc24f4d80f250ab67616d00001e02a286bd8e0d748a583ca00b76ab67616d00001e02a69e368c9ad979671a5b2f8fab67616d00001e02a6f3085196b4bfb575950ba8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020cdc0d7192efc24f4d80f250ab67616d00001e02a286bd8e0d748a583ca00b76ab67616d00001e02a69e368c9ad979671a5b2f8fab67616d00001e02a6f3085196b4bfb575950ba8",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020cdc0d7192efc24f4d80f250ab67616d00001e02a286bd8e0d748a583ca00b76ab67616d00001e02a69e368c9ad979671a5b2f8fab67616d00001e02a6f3085196b4bfb575950ba8",
+                    "width": 60
+                }
+            ],
+            "name": "Praise Medleys",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAm4QTSF00/3i1Ozs42//jpKgaYH7r",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6rELsefmaDvawVfgNXPhm7/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6rELsefmaDvawVfgNXPhm7"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6mu8dDqPoMJlBMD6z6x2hq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6mu8dDqPoMJlBMD6z6x2hq",
+            "id": "6mu8dDqPoMJlBMD6z6x2hq",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f9f235b2ea4f4a0a7b79a2662",
+                    "width": null
+                }
+            ],
+            "name": "Ministration",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAmZiUL6OCH4MmCw3JrKjkZeTfDaq",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6mu8dDqPoMJlBMD6z6x2hq/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6mu8dDqPoMJlBMD6z6x2hq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4aiKuuLiiTNjSokeMkzKRr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4aiKuuLiiTNjSokeMkzKRr",
+            "id": "4aiKuuLiiTNjSokeMkzKRr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0251589550cd2563d37ce96d32ab67616d00001e02b1fb757900211ea68cd89d6eab67616d00001e02d39c69d2f5c7ee046ca090ecab67616d00001e02d5ee204683247bc76b74c035",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0251589550cd2563d37ce96d32ab67616d00001e02b1fb757900211ea68cd89d6eab67616d00001e02d39c69d2f5c7ee046ca090ecab67616d00001e02d5ee204683247bc76b74c035",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0251589550cd2563d37ce96d32ab67616d00001e02b1fb757900211ea68cd89d6eab67616d00001e02d39c69d2f5c7ee046ca090ecab67616d00001e02d5ee204683247bc76b74c035",
+                    "width": 60
+                }
+            ],
+            "name": "American Worship",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAQe1Q60D1KL/a3EkjZGlwr4+zjC89",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4aiKuuLiiTNjSokeMkzKRr/tracks",
+                "total": 56
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4aiKuuLiiTNjSokeMkzKRr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5S5TV3e7ZsC8lWDLfkvkpY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5S5TV3e7ZsC8lWDLfkvkpY",
+            "id": "5S5TV3e7ZsC8lWDLfkvkpY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02a02581ece4d712dde01e71a9ab67616d00001e02ad55ad6f1e9ddde0711521bdab67616d00001e02d31f6e79a9a15db957d7b8a4ab67616d00001e02e0cacb50cdcb5227f72064b2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02a02581ece4d712dde01e71a9ab67616d00001e02ad55ad6f1e9ddde0711521bdab67616d00001e02d31f6e79a9a15db957d7b8a4ab67616d00001e02e0cacb50cdcb5227f72064b2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02a02581ece4d712dde01e71a9ab67616d00001e02ad55ad6f1e9ddde0711521bdab67616d00001e02d31f6e79a9a15db957d7b8a4ab67616d00001e02e0cacb50cdcb5227f72064b2",
+                    "width": 60
+                }
+            ],
+            "name": "Classical music",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAIjA4dm21tmzT8uCCiP7CFJhCLkHz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5S5TV3e7ZsC8lWDLfkvkpY/tracks",
+                "total": 27
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5S5TV3e7ZsC8lWDLfkvkpY"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6qcqm0yMEaY4B8T3m4WdT6"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6qcqm0yMEaY4B8T3m4WdT6",
+            "id": "6qcqm0yMEaY4B8T3m4WdT6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0244e5f91c347e1607f006a3eaab67616d00001e026c368c11cd22b0b8a867fe99ab67616d00001e02a286bd8e0d748a583ca00b76ab67616d00001e02ce719b11dfecfc6ad88c399a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0244e5f91c347e1607f006a3eaab67616d00001e026c368c11cd22b0b8a867fe99ab67616d00001e02a286bd8e0d748a583ca00b76ab67616d00001e02ce719b11dfecfc6ad88c399a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0244e5f91c347e1607f006a3eaab67616d00001e026c368c11cd22b0b8a867fe99ab67616d00001e02a286bd8e0d748a583ca00b76ab67616d00001e02ce719b11dfecfc6ad88c399a",
+                    "width": 60
+                }
+            ],
+            "name": "Victor's playlist",
+            "owner": {
+                "display_name": "Victor2357",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/p6ja24i9fla6oda7u2l0smz8e"
+                },
+                "href": "https://api.spotify.com/v1/users/p6ja24i9fla6oda7u2l0smz8e",
+                "id": "p6ja24i9fla6oda7u2l0smz8e",
+                "type": "user",
+                "uri": "spotify:user:p6ja24i9fla6oda7u2l0smz8e"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAJl+9+kHg6s1lSjBBUuVHxqaQ9f+d",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6qcqm0yMEaY4B8T3m4WdT6/tracks",
+                "total": 33
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6qcqm0yMEaY4B8T3m4WdT6"
+        }
+    ]
+}
