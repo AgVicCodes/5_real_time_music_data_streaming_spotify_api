@@ -8,21 +8,38 @@ with open("keys.json") as file:
 client = SpotifyOAuth(
     client_id = keys["client_id"], 
     client_secret = keys["client_secret_key"], 
-    redirect_uri = "http://localhost:3000",
-    scope = "user-library-read"
+    redirect_uri = keys["redirect_uri"],
+    scope = "user-read-recently-played"#"user-library-read"
     )
 
-spotify = spotipy.Spotify(auth_manager = client)
+sp = spotipy.Spotify(auth_manager = client)
 
+# user_playlists = sp.current_user_playlists(limit = 50)
 
-birdy_uri = 'spotify:artist:2WX2uTcsvV5OnS0inACecP'
-# spotify = spotipy.Spotify(client_credentials_manager = SpotifyClientCredentials())
+# user_recently_played = sp.current_user_recently_played(limit = 50, after = 1726426434)
 
-results = spotify.artist_albums(birdy_uri, album_type='album')
-albums = results['items']
-while results['next']:
-    results = spotify.next(results)
-    albums.extend(results['items'])
+# json. user_playlists["items"].json()
 
-for album in albums:
-    print(album['name'])
+# with open("user_recently_played.json", "w") as file:
+#     json.dump(user_recently_played, file, indent = 4)
+
+# with open("userplaylist.json", "w") as file:
+#     json.dump(user_playlists, file, indent = 4)
+
+# print(data)
+
+# print("Playlist keys:", [key for key in user_playlists.keys()])
+# # Playlist keys: ['href', 'limit', 'next', 'offset', 'previous', 'total', 'items']
+# print("Song keys:", [key for key in user_recently_played.keys()])
+# # Song keys: ['items', 'next', 'cursors', 'limit', 'href']
+
+with open("user_recently_played.json") as file:
+    data = json.load(file)
+
+for data in data["items"][0]["track"]["album"]["type"]:
+    print(data)
+    # if data["type"] == "album":
+    #     print("True")
+    
+    # else:
+    #     print("False")
