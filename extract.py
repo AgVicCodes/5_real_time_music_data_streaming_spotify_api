@@ -1,3 +1,4 @@
+import pandas as pd
 import spotipy
 import json
 from spotipy.oauth2 import SpotifyOAuth
@@ -36,8 +37,8 @@ sp = spotipy.Spotify(auth_manager = client)
 with open("user_recently_played.json") as file:
     data = json.load(file)
 
-for data in data["items"][0]["track"]["album"]["type"]:
-    print(data)
+df = pd.read_dict(data)
+
     # if data["type"] == "album":
     #     print("True")
     
