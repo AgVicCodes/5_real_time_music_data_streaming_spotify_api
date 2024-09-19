@@ -37,7 +37,14 @@ sp = spotipy.Spotify(auth_manager = client)
 with open("user_recently_played.json") as file:
     data = json.load(file)
 
-df = pd.read_dict(data)
+print(data["items"][1]["track"]["album"]["id"])
+
+df = pd.json_normalize(data["items"][1]["track"])
+print(df.head())
+
+# df = pd.json_normalize(data)
+
+# print(df.head())
 
     # if data["type"] == "album":
     #     print("True")
