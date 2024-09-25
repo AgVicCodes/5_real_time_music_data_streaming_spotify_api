@@ -36,3 +36,20 @@
 # # Song keys: ['items', 'next', 'cursors', 'limit', 'href']
 
     #     print("False")
+
+# for i in range(len(data["items"])):
+#     temp_df = pd.json_normalize(data["items"][i]["track"])
+#     df = df._append(temp_df) 
+
+# df = pd.DataFrame(columns = ["artists", "available_markets", "disc_number", 
+#                              "duration_ms", "explicit", "href", "id", 
+#                              "is_local", "name", "popularity", "preview_url", 
+#                              "track_number", "type", "uri", "album.album_type", 
+#                              "album.artists", "album.available_markets", 
+#                              "album.external_urls.spotify", "album.href", 
+#                              "album.id", "album.images", "album.name", 
+#                              "album.release_date", "album.release_date_precision", 
+#                              "album.total_tracks", "album.type", "album.uri", 
+#                              "external_ids.isrc", "external_urls.spotify"])
+
+# pd.set_option("display.max_columns", None)
