@@ -21,8 +21,9 @@ sp = spotipy.Spotify(auth_manager = client)
 with open("user_recently_played.json") as file:
     data = json.load(file)
 
-print(data["items"][1]["track"]["album"]["id"])
 
-df = pd.json_normalize(data["items"][1]["track"])
+df = pd.json_normalize([item["track"] for item in data["items"]])
 
 print(df.head())
+
+print(df.shape)
