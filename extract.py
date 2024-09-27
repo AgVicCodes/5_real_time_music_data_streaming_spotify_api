@@ -3,6 +3,13 @@ import spotipy
 import json
 from spotipy.oauth2 import SpotifyOAuth
 
+"""
+    To do
+    - Get apache airflow up and running
+    - Extract spotify track metadata from id
+    - Extract important stuff from the rest of the data
+"""
+
 
 with open("keys.json") as file:
     keys = json.load(file)
@@ -16,6 +23,7 @@ client = SpotifyOAuth(
     )
 
 sp = spotipy.Spotify(auth_manager = client)
+
 
 
 with open("user_recently_played.json") as file:
